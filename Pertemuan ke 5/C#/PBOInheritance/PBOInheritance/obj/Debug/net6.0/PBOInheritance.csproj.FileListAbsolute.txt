@@ -1,0 +1,15 @@
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\PBOInheritance.exe
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\PBOInheritance.deps.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\PBOInheritance.runtimeconfig.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\PBOInheritance.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\ref\PBOInheritance.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\bin\Debug\net6.0\PBOInheritance.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.csproj.AssemblyReference.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.AssemblyInfoInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.AssemblyInfo.cs
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\ref\PBOInheritance.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOInheritance\PBOInheritance\obj\Debug\net6.0\PBOInheritance.genruntimeconfig.cache

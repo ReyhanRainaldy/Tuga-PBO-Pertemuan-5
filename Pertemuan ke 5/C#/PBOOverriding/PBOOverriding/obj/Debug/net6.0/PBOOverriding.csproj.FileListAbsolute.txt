@@ -1,0 +1,15 @@
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\PBOOverriding.exe
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\PBOOverriding.deps.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\PBOOverriding.runtimeconfig.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\PBOOverriding.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\ref\PBOOverriding.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\bin\Debug\net6.0\PBOOverriding.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.csproj.AssemblyReference.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.AssemblyInfoInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.AssemblyInfo.cs
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\ref\PBOOverriding.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOOverriding\PBOOverriding\obj\Debug\net6.0\PBOOverriding.genruntimeconfig.cache

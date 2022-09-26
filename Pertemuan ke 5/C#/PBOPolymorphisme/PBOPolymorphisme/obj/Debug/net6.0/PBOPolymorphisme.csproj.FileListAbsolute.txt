@@ -1,0 +1,14 @@
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\PBOPolymorphisme.exe
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\PBOPolymorphisme.deps.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\PBOPolymorphisme.runtimeconfig.json
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\PBOPolymorphisme.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\ref\PBOPolymorphisme.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\bin\Debug\net6.0\PBOPolymorphisme.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.AssemblyInfoInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.AssemblyInfo.cs
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\ref\PBOPolymorphisme.dll
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.pdb
+C:\Users\Reyhan\Documents\Kuliah\Semester 2\Struktur Data\PBO Semester 3\PBOPolymorphisme\PBOPolymorphisme\obj\Debug\net6.0\PBOPolymorphisme.genruntimeconfig.cache
